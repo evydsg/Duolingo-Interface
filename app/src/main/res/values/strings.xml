@@ -2,5 +2,9 @@
     <string name="app_name">DuoLingo</string>
     <string name="textView1">Welcome Back</string>
     <string name="textView2">Are you Ready to Start?</string>
+    <string name="text1">Lesson Complete!</string>
+    <string name="text2">+10 XP</string>
+    <string name="text3">Earn another 20 XP today to reach your daily goal</string>
+
 
 </resources>
