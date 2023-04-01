@@ -42,8 +42,9 @@ https://twitter.com/duolingo/status/1329458202757509125
 
 Here's a video / GIF that demos all of the app's implemented features:
 GIF created with Giphy
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTkxN2E0NmEyZmI0YjBjNGU4MWUzMzA1OTY3MTY4MGJhMDUwNTE4MyZjdD1n/ggYUkM4Ruvrl5y9FoM/giphy.gif
 
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzk0MTYyZDA3ZTg3NGIxNTBlZGUzNzBhMDk1MTRlZjhlNWQ5ODlmMiZjdD1n/b31uxLUe4A3DSgBns9/giphy.gif
+https://imgur.com/gallery/8tyhSMz
 
 ## Original App Layout (Optional Stretch Feature)
 
